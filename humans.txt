@@ -1,0 +1,129 @@
+/* PROJECT */
+
+	Site Name:   Kafe Bar 16
+	Site URL:    https://sesnaest.rs/
+	Created:     1.4.2018.
+	Language:    Serbian
+	Doctype:     HTML
+	Standards:   HTML5, CSS3
+	Components:  jQuery
+	Software:    WordPress
+	Plugins:     Validate, Carousel, Magnigic-popup
+	
+
+/* TEAM */
+
+
+	Team leader: Nikola Vulovic
+	Contact: contact [at] nikolavulovic.com
+	From: Belgrade, Serbia
+	/main page/ - Pocetna
+	
+	Aleksandar Jovanovic
+	Contact: contact [at] aleksandarjovanovic.com
+	From: Belgrade, Serbia
+	/header, 404, addThis/
+	
+	Ivan Djoric
+	Contact: contact [at] ivandjoric.com
+	From: Belgrade, Serbia
+	/footer/
+
+	Minja Vulovic
+	Contact: contact [at] minjavulovic.com
+	From: Belgrade, Serbia
+	/events/ - desavanja
+
+	Miloš Milojkovic
+	Contact: contact [at] milosmilojkovic.com
+	From: Belgrade, Serbia
+	/gallery, contact, event-page/
+	
+	Veljko Ivanovic
+	Contact: contact [at] veljkoivanovic.com
+	From: Zemun, Serbia
+	/gallery-entry, contact, event-page/
+
+	Jelena Muric
+	Contact: contact [at] jelenamuric.com
+	From: Zemun, Serbia
+	/about, addThis/ - zasto 16
+
+	Milos Lalic
+	Contact: contact [at] miloslalic.com
+	From: Belgrade, Serbia
+	/planning, human.txt, favicon/ - organizujte dogadjaj u 16
+
+
+	
+	/* SOCIAL */
+	
+	Facebook:    https://sr-rs.facebook.com/kafebar16/
+	Instagram:   https://www.instagram.com/kafebar16/
+
+
+
++++++++++++++============================+7++==DND??=++===~======+++++==========+IZ$ZOOOZ$I??I?I???++II7OO8OOOOZO7I=====~~~~~+??7?I+++~=~~~=====++++++??+++~~:::::::::::::::::::::::::::::~~~~~~~~~~~~~~
+=========================================+I:+==+?$+==O7$77~+77$=II????==~~~====~+I8ZZ88OZ7????I???????7Z88D88OZ$OI?~~~~~~~~~~=??=77?+=~~~~~~=====+++++?+++=:::::::::::::::::::::::::::::::::::~~~~~~~~~~
+=========================================+I+====I$??=+=~=?=~=O$OO7==?I=~~~?$DD8I+?8OZOZ878O$+~~$7=??+==ZO8OZOOZ$8I?~~~~~~~~~~=++=+++=+~~~~~~~=======~=O==+=:::::::::::::::::::::::::::::::::::::::::::~:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZZ?==========+777I77$O$II?+???+????8DZ?777=~=D8D$DND8?OO8OO8Z777I+?=~~=?I=?I$$$$OOZZ8?+~~~~~:~~~~+III?I??$=====++++++?==~7I=~+=::::::::::+++++++++++++++++++????????IIII~:::
+77$$$$ZZZZZZZZZZZZZZZOOZZZZZZZ?=====NNOD7?7$7IO7$7D=MD8DDDZ+==$ZZ+?III==NMI+===+DDZ8888DI??++~=~~::~==???IIZ88ZZO?+~?D8I8~~~~?8$77++=====+++O=++I+=?==~++~=::::::::::?????+++=+?+++???????III7IIIIII~:::
+7777~~:~:=$OOOOOOOOOZOOOZZZZOOI==~NMMDNNDD7O77IO77IN??=++?$D~+$77?I???=ZMD?+====+MN$ZZZ8II?+?=+=~~~~~=+??IIOZO8ZO?+$=+==7D$~~+ZZ$7?I$+7?~~==O+=+??Z?==I?Z~~::::::::::???????????????II777IIIIIIIII??~:::
+777I?::::::IZOZZOOOOOOOOOOOOOO7=+DMN7?===7M$I+?I++7O?7$+==+7IO$$I?I+??=MM$?$Z?IOI8N$$Z78I???+???++?$?==???IZOZOII+O?=~~~~=?:~IOZZI77O$O$?=++O+7?I$?I~=?+I=~::::::::::I??????????II77777III??????I???~:::
+?I7+?~:::~::ZOZZZZOOOO8888OOOO$=8NN7++++=+8NOZZ$$$OIIOZ$+Z$77$777$7777=D7?+???+II+M??7IZ???I+ZZZI?7Z7?=?++I$+~=+7+D$+I=77?$~~?II?ODDDDD8$77$$7??7I+7+?+=O=~::::::::::I?????II7777777????????????????:NOZ
+++?+??::::~,=ZO8OOOOOOOO88888DO=DMMIZ$?I8DIM$III?II7I+=I~=+I+??????+??$M7I?+?$7?++N$777Z~~~=III++7O+=+?~~~=IZZ7???I+++=?+?8~:=~~DD8NDDDD8+=+?++IZI?I=?++O=~::::::::::88888888OZ77III?++++++++???????:N==
+?I++??~~====:ZZ$ODNNND888O888D8IMNN?II?=+++MNI77I=$7I77?7III????====+?NNM$??OOO7?8N7I7I$~=~~?I?++++=+++==+=$Z777?+?+IZ7?=+?:~??8DOOD8DNNDI~~I?+?$8I+==+II=~:::::::::~NNNNNND8O$7IIII+++=====++++????~D+=
+?I======+~I+~?Z88$OO8NDDNMNNDDDOMNNI?$Z7I??DN+ZZ$~ZI77$777II?II=8OIZ7ZNNMM7?+++?7NM$$ZZN~~~~+II+7??+++?I?=+77$77==?+IZ$I+?~:~?:ON?=+=7??N~~:==+?7O$?++=++==:::::::::~NMNNND8OO7II???+++=====+++++???~D~~
+?==8DN++?$$=ZZZ77I7$DDZZZNO8ND8OMMMIID+=7?+MMOOZZZ,D7$77777$ZZOZOOZZ8NNMMN77I?IDMNN=8$7D+~=+=~I+??+=++:==~+II:=+=+=I+=+++?:::?II7O7I?II=D+77I?+??Z$?===+?==:::::::::~ONMMM88ONII????+++====++++++???=87+
++==7ND?+=+I?8ZZII?I7888O$NZONDODNMMD7I??++DMND7~,,,:7777I$?7=IIIIIIIZD8NNNN+++IMMNDN7Z$D:....,~??????==..8$$7,::=+~=I+???,,,:===I=+I?+=+~++??=++II7==+=:~==:.,~~::::~+??IIII77??????++=====+++++???++8OZ
+$7Z$ZO7N?ONZM$Z++?I7888O$DZZND8DMMMMZ$$7$NNNNN:,:,,::7?II?$I:,:=I=+,,,,=~~~=++I$8DN7+778:.,,,,~~????:::,..,,:.:~~+:$I???,,..,,,~~+$+=$+=+++?==?++~++=~,:~=~,,I??:~::~==+?????7??????++=====++++,,,,,,:,,
+N7+I$7$?7Z8I8ZZ==+IIO8O8$8$$N8$DNMMMMO??IMNNND::,,:~~,8I?IO:+:,,,,,.,,,,:,,,,,,8DMN~77+.,,,.,,,=7?=~~:.,...,.,,,,,.8??=,..,,,,,,,~+===+++??I,=?=~:+=:,,:~:,,I7II~~~~~=++????I7?????+++++++++++=,::,:,,:~
+?I$ZDOO???ZIN$Z==ID+==+O$O$ZO,::ZNMMM8I?7MNNDD~:~,:,:~Z8OD:::,::,,,,,.,,,,:,,,,:+8ZO,,,,,,,,,,,,~=+=~=,,.,,..,,,,:~:~.,,,::,,,,:,,=??==~=+:Z:~+=:,$..,:,,,,,7II?I~~~=+?I7777$$?+??+?++++++++++=,,,,,,::,
+ZDZI$ZO$IDDDMZZ?+IDZZ~+87Z$O777,:OOND7?++DNNDD~:,:,,,::OOD=,::,,,,,,,,.,,,,,,,..,::,,,,,,,,,,.,,,~~~~.,.......,,,,,,,,,,,,,,,,::,,~+====~,,,..~+,,$,,,,,,,,Z77III~~~=++?IIII7$?+++??++++++++++=:::=~7~:,
+++7IOO$?INMONZZZ$$78?7=Z7Z7ZZ$Z$:=88OO~++7ND8N87?+:,,:::O7::,,,,,,,,,,,,.,,,,.,.,.,,,,,,,,,,,...,.~:...,..,...,,,,,,,,,,,,,,:,,,,,~+====,,,,,,?I?.?,,,..,,,O?II7I~~~===+????I$?++++?++++=+++++~:::~~~=::
+++=$NOO??I87MDZZ$7Z$?=~8$ZOZZ$Z7:,+8ZOI:=ZO~DD87?:,:,,,:+~:,:::,,,,,,,,,,.,,,,.,,,,,,,:,,,,,,,..,..~,,....,.,.,,,,,,,,,,,,,,:,,,,,,====,,,,,,,I7I?,,,,,?,,:Z77III~=~=++?II?,,::::::~=:~~~=III7+:DDNDDN:,
+O?+Z88Z+ZDNNNDI++?8$~:~O8DZZZ$ZZZ:,::==:,,O:$DDO$~:,,,,,,,,,,,?:,,,,,,,,,,,,,,..,,.,,,:,,,,,,,,,..,,,,,,...,,,,,,,,~,,,,~,,,I,,,,,:Z7$,,,,,,,,$$7II,,,,,,,,$777II~==+??I77I,:+:~?==~::::~+7::~::+,:Z$O::
+$MMNN7IMNNNZMM=???DO~:,O+7OZZZ$ZO~,:,,,::,$::OOD$=:::,,,,:,,,,:,:,,,,,,,,,,,,,,,,,,.,~::,,,,,,,,.....,...,,,,,,:,,,~,,,,,,.:+,,,,,,.I,,,,,,,,,$$77I=:,,,,,:$77III~====+???=::::::::::::::+=:,~7:++,=~:::
+I~$~~++++++ONMOO8DDD?I+Z+7ZOZ$ZZZ~:::,,::,~,,:,:?+~::::,,+,,,::,,,,,,:,,,,,,,,,,,,,,,:::,,,,,,,,,.,.....,,,,,,,:,,,,,,,,,,::7,,,,,,,~,,,,,,,,,,77$?$,,,,,::?777II=====++??::::::~~:::::::~~::~~=?~::::~:
+7$=I===+:~?NM+===:~~~~:::+ZZZZ$ZO=:::::::::,,:=?ZI=::::::I::,::,,,,,,::,,,,,,,,,,,,,,:~:,,,,,,,,,,.,.,..,,,,,,,~,,,,:,,,::,:7:,,,,,,.,,,.:,,,,,$$$II::,,,,:?7IIII===+??I=~=====+::+~~::::~:::~++I==::~::
+Z?7Z~=:=ZI7ZD?7++~:~~~~~~+ZZZZ$ZZ=~:::::::::::,=ZZ+~:::::+:,,::,,,,,::,,,,,,,,,,,,,,,,~::,,,,,,,,,,,,,,,,,,,,,,::,,,::,,,,,:$7,,,,,,,,,,,~,,,,:I$$7I+:,,,,,7$$$??===??I7I+$Z$+7+~+7++::,,,,,,,,,,,:,,,,,
+$$$$NN7=?+DM8??==ZZ$$$7777ZOZZZ$O=~~::::::::::::OZ+=~::::~:::::,,,,::,,,,,,,,,,,,,,,:,~::,,,,,,,,,,,,,,,,,,,,,:::,,,,:,,:::~IZ:,,,,~,,,,,,,,:,:~$$$II,,,,,:I7$77++++++??I+7$Z+I=:~~=+~:~:~~??DDDNMNNNNNN
+DZM$8D$=+=+$8=Z8$O~~I~~::IOOZZZZO+~~::::::=:::::ZZ+=~~:::::::~:,,,,,:,,,,,,,,,,,,,,,=,~::,,,,,,,,,,,,,,,,,,,,,,::,,,,:::,,~:IZ+:,,,:,,,,,,,,,::~7$$$?::,,,~===$$=+++?+?I?+?77?+~:ONM::=~:=~~+=+ONNNNNNNN
+OOMDI7+=++IZD~ZOOZ$7NN7DNNZOZZZZI+==~~::::::::~8ZZ+=~~::::::~~:,,,,,:,,,,,,,,,,,,,,,:,=::,,:,,,,,,,,,,,,,,,,,,,:,,,,,::::~::7$O:,,,,,,,,,,,,,::~7Z$$I~,:,,=~=+?+++++++=~======+++MMM~:~:~+~~~=~:~::~NNMN
+OMN$?II?+++??+??????ZZZ$$ZIOZZZZ$~~~~~:::::::::OOZ7+~:~::::~~~:,,,,,:,,,,,,,,,,,,,,,,,~,:,,:,,,,,,,,,,,,,,,,,,:+:,,,,:::::::~Z8:,,,,,,,:,,,,,::~+77II,,,,====+~~~~~~~~~=~~~~~~~~~=~~===+I77+~?+~=~~=?OMN
+=~+7ZMONO88DDNDNDNNDDDDDDDDOOZ$IZ=~:::~~:::?::~ZOZZ+=:~~~~~~~~:,,,,,:,,,,,,,,,,,,,,,,,:::,,:,,,,,,,,,,,,,,,,,,,=::,,:::::~~~???::,,=,,,,,,,,,::=7+I??:,:====+,=$ZZO8888Z?888888O88DDDD8DDNN+IZII?=~8:ZI=
+7DD:~~77ODNMMMMMMMDDDDDDDDDOOZ$$7=~~:::~::::::::O7+?+~~~:~~~:~:,,,,,:,,,,,,,,,,,,,,,,::::,,:,,,,,,,,,,,,,,,,,,,+,,,,:::~~::,?+I::,:?,,,,,,,,,::===+I:::=====,,,$ZZZOOZZ$$ZZOOOO8O888DDDDDNN?=ON8NDDNIII+
+$8N7D$NMNMMMMMNMMDDDDDDD8888OI?++=~~::::::,:~::::??I=~::~~~~~~:.,,,,:,,,,,,,,,,,,,,,,::,,,,,,,,,,,,,,,,,,,,,,,,+,,,,::::::::I++::,:I::,,,,,,,,:==+I:::?~~=~:,,:$ZZOZZZZ$$:~~~~~~=+8DDDN:+II=~?OMMMMM$II~
+IZD+77OM7DN77$$MNNNDNDDDD888$7I+?=:~:::,::::~,:::I?I+=~~~~::~=:,,,,,,,,,,,,,,,,,,,,,,:~:,,,,,,,,,,,,,,,,,,,,,,:?,,,,:::::::~?+~::,:+,,,,,,,,,,+=+?::~I+..,,,,,:7ZZZOOZZ+==~+~~~===DDDNO~~~::::::::,,,:,:
+??$$IIZMMNMMMMMNNNNNNDDDDD8D87I?++:::::~:::::::::~?I+==:::::~~:,,,,,,,,,,,,,,,,,,,,,,:~:,,,,:,,,,,,,,,,,,,,,,,~,,,,,:::::::~++=,:,:I,,,,,,,,:~==????++==:,,,,,:?ZZOOOOZ7+=::~~~~==DDDDODDDDDDDMMMMMMNMMN
+8778I7OMMMMMMMNNNNNDDDDDD8D887I?++:,:::,::::::::::I?+~~:::~~~~:::,.,,,,,,.,,,,,,,:,,,::::,,,:,,,,,,,,,,,,,,:,,:,,,,,:~~~:::~7??+:::I:,::~=++++,$=Z+++++~:,,,,,,,ZZOOZOO$?+++==~~==DDDDDDDDDODDMMNNMMMMNN
+NDZONNNMMNNNNNNNNNNDDDDD8DD8?=II?+~,::::::::::~:::+?7==~~~~~~~:::,,::,,,,,,,,,,,,,,,,::::,,,:::,,,,,,,,,,,,:,,:,,,,,:~::::::==?,~,:~::,~,?,,,===:?Z??+=:,,,,,,,:ZOOOOOO$7::::::~:=8DDDDDDNDDDDMNNNNNMMMM
+II?Z$MMMMNNNNNNDNNNDDDDD88D8=~II?+=:,,,,::::::~:~:=?I+~:,,I::~::,:,::,,,,,,,..,,,,,:,::=::,,,::,,,,,,,,,,,,:,,,,,,,,,~:~::~~=~:,,,,,,,,::::::~::,$7IO?7IIIIIIII7ZZOOOOO$7:~~:~::~~DDDDDDDNDNDDMMMNMMMMMM
+I?IO$MNMMNNNNNDNNDDDDDDDD8DD===I??+~:,:::::::::~:,=II===~~I:~~?:,,,,:,,,,,,,,,,,,,,:::,~:,:::::,,,,,,,,,,,,:::II?I++:~::~~~~=+~~:,,:,,,:::,::,,::ZZO777IIIIIIII7OOOOOOO$7:~::~:~~~8DDDDD?~:=~=MMMMMMDDNI
+8NNNDNNMMNNDNNNNNDDDDDDDDD88~=~7ZZI?::::::::~:::::~DO8=~::I~~++~,,,,::::,,,,,,,,,,,,,:,::::::::,,,,,,,,,,,,:::+I7$$===?==~~~~+~~~,,+,,:::,,,,,,::ZZO$$7IIIIII?IZZOOOOOO$I::::::~~=8DDDDD+~:~~=NNMMMD$7Z~
+888DDNNMMNNDNNNNNDDDDDDDDD8$~===??+==::::::::::::~=I?III?++++===,::=+:::,,,,,,,,,,,:::??Z:::::::,,,,,,,,,,,:::?777=~=~+=~=~:~=~:~:,?,,::::,,,,:::$ODZ$7II7III??ZZZOOOOOZZ:I+?~~~~+8DDDNN=::~~=7I7OM8ZZI=
+D8DDDDNMMNNDNDDNDDDDDDDDDDD=~~~+??++?:::::::::::::~77?I??++====~??+++~::,,,,,,,,,,,:::ZI7:::::::,,,,,,,,,,,:::=I=~=~~=====~:~~~::~,+,:::::,,,:,::$ODZ$77II7III?ZZOOOOOOOO:$?++~==IDDDNI====~~?I77?I$$$N?
+8OZZ8DNMMNNNNDDNDDDDD8DDDDD:~=~~$I777~::::::~$~:,~:Z?I??7+=+==~:I??I+~::::,,,,,,,,,,::I7=~::::::,,,,,,,,,,,::::~=~~~~=+=+~=~~+I~::~$:,:::,,::::=IZODZ$7III77IIIZZZOOOOOOZII7II+==ODNNNNDZ7+~~:::::,,,,,,
+D8OZZNNNMNNNNDDNDDDDDDDDDDD88$~~III$I~::::::~$I$$7I7OZ?+7+=+===::+I7I~::::,,,,,,,,,:::M=~=~:::::,,,,,,,,,,,::::~=~=~~=~~=~~~~=I7I7777$ZIII????IIZZO8O$7IIII77I?OZZOOOOOZOOOOO8888DDNNDDNNNDNNNMMMMMNMMMM
+OOOOZDNDMNNNNDDDDDDDDDDDDDD888877$$ZZIIII7$Z$$777IIOI+++I+=====:::::::::::,:,,,,,,,,::M=~=~::::,::,,,,,,,,,::::~=~~~~=~~=~=~~=+777777Z$II???IIIIZZOOD$7IIII77IIOZZOOOOOZOOO888888DDNNDDNNNNNNNMMMMMM$OO$
+MD8OODNMMNDNNNNNDDDDDDDDDDDDDDD87$777I??II$Z$7777I???+++I+=====:::::::::::,,,,,,,,,:::N=~=::::::::,,,,,,,,,::::====~~~=++=:~~~+I77777$OII???I?IIZZOOD$7III?I7IIZOOOOOOZZOOOOO8888DDNNDDNNNNNNNM7ZO7M::~=
+MMMMMNNMONDNNDDDNDDDDDDDDDDDDDDD7777III??I7O$7777I??+++?7=====~:::::::::::::,,,,,,,:::N==~~:::::::,,,,,,,:::::,=~~~~=~~~===~~~=ZII77$$7I???IIIIIZZOODZ7IIII?77IZOOOOOOZZZZZO8888DDDDNDNNNNNNNNM==~IM~:~I
+8OOOZ$NM8MDNNNDDNDDDDDDDDDD8DDDD7777III??I7Z$$777I??+++ZM+====~:::::::::::::,,,,:,,:::N+~~~::::::::,,,,,,:,::,,==~~~=I??77=+==+$7III7$$III?7IIIIZZOOOZI7I777II7ZOOOOOOZOZOZZ8O8DDDNNNNNN7III778==~7N~~+=
+N8OO8ZNMIMNNNDDNNDDDDDDDDDDDDDDD777IIIII?I$$$$77II+?++?D7+====::::::::::::::,,,,:,,,::NMMD~,:~::,,:,,,:,:,,IMN+===~=D8ZZOO?===+I$7$$7O$??I?II?I7ZOOO8ZIIIII7III7OOOOOOZZOZO8888DDNNNNN~7?I77ZZO=~~$7~:==
+D888O8NMI8NNNNDNNDDDDDDDDDD8DD887$$IIIIIIIZ$$$$7II=??++MM+====:::::::::::::::,,:::,,:~NMMMNNMNNNNNNO8MNMNNNNNN==~~==NMMMMNN+===?$777$OII?III?II$ZOZO8OII?II?II?IZOOOOOZOZOOO88OZDNNNNM~::::,::::::?+7=I=
+MMMN8OMM7IMNNNDNNNDDDDDDDDDDDDD8IZZ777IIIIZZ$$$77?++?++MMI====:::::::::~::::::::::,,:~MMMMNNNNNNMMMZ$MMNNNNNNM~~~~~OMMMNMMM~==++Z777$$I??II?I?IZZZZZ8O7IIIIII?I7ZOOOOOO8OOO8888DNNNNMMMMMMMMMMMMMD$+~::,
+NNMMMMNMMMMNNNNNNNNNNDDDDDDDDD88IZ7777IIII$ZZZ77I=?+++7887~====~::,::::::::,,,~?8MNMNNMMMMNNNNNMNNNZ$MNMNNNNMN==~~~MMMNNMMMM==+=Z777Z$$IIIIIIIIOOOZZ8O7IIIII7I?ZOOOOOOOO8888DDNNNMMMMMNNNMMMMMMMMNNMMMMM
+DDDZDDMMNMDNNNDDNNNDDNNNNNNNNNNDDO7777III77OZ7$77???++DMMM======~+8MMMMMD8OZZZOODMNNMNMMMMNNNNNNMMNZZNMNNNNDNN?=~==MMMNNMMMMM===7777Z$7IIIIIII7ZZZZZOO7IIIIII?I888888888DDDDDDNNNNNNMMD8DDDN$I==~~==$$NM
+ZO8O8$MMOOZOOOO8DNNDDDDDDDDDDDDDD$77777II778$$7$???+++O888========?DDD8888OZZZO8NNDDDDNNNNMNMNNMNMNNNNMNNNNNNNI=~=$8OZZZOO88D?==?$7$O$7I?IIIIII$ZZZZOO$7IIIIIII8O8OOOOOO8OOO8DDDD8DDDDDDDDN?:~:~=I777DDN
+$7$ZDNMNDDMMMM8ZZZZZZZZZZZO8DDDDD777777I77OZ$7$7I?++++888D===~====?NNNDDD8OZZOO8DDDD888888NNMNNNNMNNNDMNNNNNNN+===OOOOOO88DDN+~~+$$Z8$7IIIIIIIO$$ZZZ8O$77IIIII?ZO888O$7IIIIII7777777$DNNNNNN~++~~8DDDDDD
+NZ7NNNNND8MNMD$$$$$$$$$$$ZZZZOZZ$777777I77OZ$$$I?+++++8O88====~~===NDDD88OOZZZODDD88888888NNNMMNNNNNDDMNNNNNNNI~==OOOZOOO88DD=+~~Z$Z8$$7IIIIII8Z$ZZO8O$77IIIII?IIIIII??????????IIIIIIIIIIIIII$ODNNNNNDDD
+$OD8D8Z$7I$$$777777777$$$$$Z77$7I$77777I$7OZ$$7I+++=++?7$Z========~~DDDD8OOZZO8DD88888OOOODNNNNNMNNNDDNNNMNNNMO===OOOOOOOO8DD+~~=Z$$D$$IIIIIIII7$ZZZ8O$777I7II????????I????????????????????+===++???????
+77777777II77777777777777777I7777I7777777$7OZ$$II??++==IIII+==~~~===~ZZZZ8OOZO8Z$$$$$$$$$$7ZNNNNNNNM7$$DNNNNNMN$==I7I777777$$$~=+=I7$D$$IIIIIII77OZZZOO$$7777II??????????I???????????????????++++=+++???+
+77777III7I77777777777II7II777III777777I7$$OZ$7II?++++?IIIII==~~~~~:+IIII8OOOO87?IIII??????7NNNNNNNN???7NNMNNNNZ+=??7++???????+=:~+Z78$$IIIIIII788OZO88Z7$7IIII?+??????+?????+????????++++++++?++++++++++
+7I7IIIIIIIIIIIIIIIIII7IIIIIIIIII7777777$$$OZ$7I=+??+?77III?7=~===~:,?II?88OOO8?I???????????MNNNNNNM???ONNNNNNNM==?????????IIII=::~Z$8Z7IIIIIII$$ZOOZZO7III$$77I?++??+++++?????+++++++++++++++++++=+++++=
+IIIII???IIIIIIIIIII7IIIIIIIIIIII7$77777$$ZO$77==+???77II7777+++=~IDDDN7I88OO8$?????????III?MMMNNNNM?DDDNNNNNNNNNZ$777III???II7?+I$8ZDZ7III7II+:~~7OZZ7ZO7$$Z7$??+++++++++++++++?+++++++===========+=====
+III?IIIIIIIII????7II??IIIIII??II777$777$$OZ$77=~=?I777I77$$Z7=+++INDD8DN8OOO8I?????????????NMMMMMMM7MN7NNMMNNNNN7$$$7II777777O:~~N+$8Z7I777II~~~=~~~~=?OZ7I77I?+++++++++++++++++++++++++=============+==
+????????????????????????????????I7$7777ZZZZ$77NND88Z$$77$7$Z7III?IO7OMND88OODIIIIIIIIIIIIII8MMMMNMI77777NNNNNMNDOI7III77$$$$DDDD8~8O8$$77777I==?777I77II:,:~+=++++++++++++++++++++=+=+++====+==========~
+?????????????+??????????????????I$$$77$ZOZ$7$DNNOOZZ77+?I77II???????????D8OODIIIIIIII7777IINMNMMMM77$$$$ZNNNNNNNI777$$Z7$$ZNNDDNNNDN$ZOZI777IIIIIIII7$Z:,,,,:+++?+++++++++++==++=====+=+================
+????????++??????????????????????I7$777$8O$$7DMD$O7IIII7???I??++++++?IIII88OOD+777IIIIII777NNNMMMMNOOZZZZZ8NNNNNMI7$7777777$ONMNNMMMMOZZZ$7777?+??IIII7=:::,::I??++?++++++++======+=====+===+============
+????????II?????????????????????$II777$O8Z$ZZ7OZ$Z$$7$O777II?++++++???IIO88OOD~:7I7IIIII77$NNMMMN8DZ$$$$$$NMMMM8NN777777OI7II7IZDNNNZ8Z7III77I$IIIII?II$~~~~:I+????+?+++++========+++++================~=

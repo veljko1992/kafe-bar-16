@@ -1,0 +1,56 @@
+.gallery-album h2, .gallery-album p {
+  text-align: center;
+}
+
+
+
+.album {
+  background-color: #E9E9D3;
+  padding: 15px;
+  position: relative;
+  z-index: 10;
+  text-align: left;
+  padding-bottom: 8px;
+}
+.album-pp {
+  margin-bottom: 25px;
+}
+.album p {
+  text-align: left;
+  color:#A47D5E;
+text-transform: uppercase;
+font-size: 14px;
+
+}
+
+.gallery-album h3 {
+  text-transform: uppercase;
+  font-weight: 100;
+  font-size: 18px;
+  color:#575759;
+
+
+}
+
+.gallery-album button {
+  margin: 50px auto 0px auto;
+  border-radius: 20px;
+  padding: 0 45px;
+  background-color: #7BC5CD;
+  color:#fff;
+  font-family: "Oswald", sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
+  border: none;
+  line-height: 30px;
+  font-weight: 300;
+}
+
+
+.gallery-album a {
+  text-decoration: none;
+}
+
+.gallery button:hover {
+  background-color: #5fbdcd;
+}

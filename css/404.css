@@ -1,0 +1,130 @@
+.container-404 {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  _outline: 1px solid red;
+}
+.row-404 {
+  width: 100%;
+  height: 100%;
+}
+.image-404 {
+  position: relative;
+  top: -43px;
+  left: 0;
+  width: 1090px;
+  height: auto;
+  _background-color: red;
+  _background-image: url('../img/aleksandar/404-image.png') !important;
+  background-position: left center ;
+  background-repeat: no-repeat;
+  background-size: contain;
+  _outline: 1px solid red;
+
+  }
+.text-404 {
+  position: absolute;
+  top: 19%;
+  left: 84%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  }
+.text-404 h2 {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  font-weight: 200;
+  font-size: 80px;
+  color: #c56f6d;
+  margin: 0;
+  }
+.text-404 p {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 40px;
+  color: #575759;
+  line-height: 0.9;
+  }
+
+  /* Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199px) {
+.image-404 {
+  top: -79px;
+  width: 860px;
+  height: auto;
+}
+.text-404 {
+  position: absolute;
+  top: 18%;
+  left: 86%;
+}
+.text-404 h2 {
+  font-size: 68px;
+}
+.text-404 p {
+  font-size: 32px;
+}
+
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991px) {
+.image-404 {
+  top: -45px;
+  width: 670px;
+  height: auto;
+}
+.text-404 {
+  top: 61%;
+  left: 67%;
+}
+.text-404 h2 {
+  font-size: 57px;
+}
+.text-404 p {
+  font-size: 27px;
+}
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) {
+.image-404 {
+  top: -45px;
+  width: 515px;
+  height: auto;
+}
+.text-404 {
+  top: 61%;
+  left: 63%;
+
+}
+.text-404 h2 {
+  font-size: 48px;
+}
+.text-404 p {
+  font-size: 23px;
+}
+
+}
+
+  /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+.image-404 {
+  top: -49px;
+  width: 425px;
+  height: auto;
+
+}
+.text-404 {
+  top: 66%;
+  left: 53%;
+}
+.text-404 h2 {
+  font-size: 21px;
+}
+.text-404 p {
+    font-size: 14px;
+}
+
+}

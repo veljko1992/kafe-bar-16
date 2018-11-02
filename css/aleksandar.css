@@ -1,0 +1,235 @@
+
+/* stilizovanje hedera */
+.main-header {
+  margin: 0;
+  padding: 0;
+  font-family: 'Oswald', sans-serif;
+  height: 267px;
+  margin-bottom: 50px;
+  background-image: url('../img/aleksandar/header-background.png') !important;
+  background-position: center top ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 16px;
+  text-transform: uppercase;
+  z-index: 10;
+
+  _outline: 1px solid red;
+}
+
+/* apsolutna pozicija headera (hom strana) */
+#home .main-header {
+  background-color: transparent;
+  height: 0;
+  width: 100%;
+  position: absolute;
+}
+
+/************************** nav bar */
+.bg-light {
+  background-color: none !important;
+}
+
+li.nav-item {
+  _background-color: #eee !important;
+  text-align: center;
+  padding-left: 25px;
+  z-index: 10;
+}
+/* fb i ins */
+a.social {
+  padding-left : 0 !important;
+  padding-right: 0 !important;
+  margin-left: 11px;
+}
+
+/* linkovi */
+a.nav-link.link {
+  padding-left : 0 !important;
+  padding-right: 0 !important;
+  margin-right: 0px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color:#000;
+}
+
+/* activna stanja na dugmićima */
+#home .home-link,
+#about .about-link,
+#events .events-link,
+#planning .planning-link,
+#gallery .gallery-link,
+#meni .meni-link,
+#gde-je-16 .gde-je-16-link {
+  color: #000;
+}
+
+/* sklanjanje def. podešavanja */
+.navbar-toggler:focus, .navbar-toggler:hover {
+  text-decoration: none;
+  outline: none;
+}
+
+/* za fb i inst */
+ul.social {
+  padding: 0;
+}
+li.social {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+a.social:hover {
+  filter: grayscale(100%);
+}
+
+
+/* dropdown meni kontejner (podmeni)*/
+.navbar-nav .dropdown-menu {
+  position: relative;
+  top: 43px;
+  left: -124px;
+  background-color: #eee;
+  min-width: 100%;
+  border: 0px;
+  background-color: #e4d686;
+}
+
+/* dropdown elementi (podmeni)*/
+.dropdown-item {
+  color: rgba(0,0,0,.5);
+  text-transform: uppercase;
+  text-align: right;
+  font-weight: normal;
+}
+
+/* hover stanje na podmeniju */
+.dropdown-menu .dropdown-item:hover {
+  color: black;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.navbar-collapse {
+  _outline: 1px solid red;
+}
+/**************************************+
+             @media
+/***************************************/
+
+/************************************ LG */
+@media (max-width: 1199.98px) {
+  /* pozicioniranje headera */
+.main-header {
+  background-size: cover;
+  _background-position: left -310px  top -10px ;
+  background-position: center top ;
+  background-size: 150vw 258px ;
+  height: 258px;
+  font-size: 16px;
+  text-transform: uppercase;
+  z-index: 10;
+}
+
+}
+/************************************ MD */
+@media (max-width: 991.98px){
+/* pozicioniranje slike headera */
+.main-header {
+  _background-position: left -190px  top -60px ;
+  background-position: left top ;
+  background-size: 150vw  194px ;
+  height: 194px;
+
+}
+
+/* izgled hamburger */
+.navbar-light .navbar-toggler {
+  padding: 10px;
+  color: rgb(0, 0, 0);
+  border-color: transparent !important;
+}
+.navbar-light .navbar-toggler:hover {
+    border-color: #c1c1c1 !important;
+  }
+
+/* pozicioniranje padajućeg menija u odnosu na header */
+.navbar-collapse {
+  padding-top: 15px;
+  z-index: 100;
+}
+/* kontejner padajućeg menija */
+ul.navbar-nav {
+  padding: 30px 0;
+  background-color: #F1E18B;
+  border-radius: 140px 30px;
+  box-shadow: 0px 0px 12px 1px rgba(0,0,0,0.06);
+}
+
+.navbar-toggler-icon {
+    height: 35px;
+     width: 35px;
+  }
+
+
+
+li.nav-item {
+    padding: 0px;
+  }
+
+ul.navbar-nav {
+  position: relative;
+
+}
+
+ul.social {
+padding: 0;
+}
+
+.nav-item.social {
+  width: 60px;
+  padding: 0;
+}
+
+li.last {
+  _background-color: black !important;
+  padding-left: 0;
+}
+
+.nav-link.social {
+  margin: 0;
+}
+
+/* pozicija dropdown menija */
+.navbar-nav .dropdown-menu {
+    top: 0px;
+    left: 0px;
+}
+.dropdown-item {
+  text-align: center;
+}
+
+}/********************** end 767 */
+
+
+/*************************** start mobilni  */
+@media only screen and (max-width: 767px) {
+
+.main-header {
+  background-position: left top ;
+  background-size: 150vw 128px ;
+      height: 128px;
+  }
+
+/* promena veličine koda  */
+.navbar-brand img {
+  width: 41px;
+  height: 33px;
+}
+
+/* izgled hamburgera na mobilnom */
+.navbar-toggler-icon {
+  height: 25px;
+  width: 25px;
+}
+} /* end mobilni */

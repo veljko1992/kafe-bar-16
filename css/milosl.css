@@ -1,0 +1,128 @@
+#planning {
+  text-align: center;
+  background: url("../img/milosl/B1.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom 320px;
+  background-size: 80%;
+}
+
+.planning-top {
+  margin-bottom: 50px;
+}
+.planning-top h1 {
+  font-size: 18px;
+}
+
+.planning-top p {
+  padding: 30px 0;
+}
+.planning-gallery a {
+  display: block;
+  margin-bottom: 30px;
+}
+.planning-gallery img {
+  transition: all 0.5s;
+}
+.gallery-img-holder {
+  width: 66.666%;
+  margin: auto;
+}
+.overlay:hover img {
+  transform: scale(1.1);
+  opacity: .7;
+}
+.planning-btn {
+
+  margin-top: 60px;
+
+}
+
+.planning-btn a {
+  display: inline-block;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #7BC5CD;
+  line-height: 30px;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 50px;
+}
+
+.planning-btn a:hover {
+    background-color: #5fbdcd;
+    text-decoration: none;
+}
+
+.planning-top p {
+  font-size: 14px;
+  text-align: justify;
+}
+.planning-btn p {
+  text-align: center;
+  font-size: 14px;
+}
+
+
+/*.planning-btn {
+  padding: 30px 30px;
+  line-height: ;
+}*/
+
+@media (min-width: 576px) {
+  /* .planning-gallery div {
+    padding: 15px 15px;
+  } */
+  #planning {
+    background: url("../img/milosl/B1.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom 320px;
+    background-size: 40%;
+  }
+  .gallery-img-holder {
+    width: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  #planning {
+    background: url("../img/milosl/B1.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom 240px;
+    background-size: 40%;
+  }
+}
+
+@media (min-width: 992px) {
+  #planning {
+    background: url("../img/milosl/B2.svg"), url("../img/milosl/B1.svg");
+    background-position: left 308px, right bottom 200px;
+    background-repeat: no-repeat;
+    background-size: 60%, 40%;
+  }
+
+  .planning-top {
+    margin-bottom: 120px;
+  }
+
+  .planning-top h1 {
+    font-size: 28px;
+    text-align: right;
+  }
+  .planning-top p {
+    font-size: 16px;
+    text-align: right;
+  }
+  .planning-btn p {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .planning-top h1 {
+    font-size: 36px;
+
+  }
+}

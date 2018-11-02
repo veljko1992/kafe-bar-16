@@ -1,0 +1,41 @@
+
+
+
+
+
+
+.intro-contact {
+	text-align: center;
+}
+
+.contact-span span {
+	font-size: 30px;
+}
+
+.contact-span {
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.contact-form {
+background-color: #F1E08B;
+text-align: center;
+padding-top: 50px;
+
+}
+
+#gde-je-16 .form-group {
+	text-align: left !important;
+}
+
+.btn-form {
+	background-color: #c46f6e;
+margin: 50px;
+color:#fff;
+border-radius: 20px;
+}
+
+#gde-je-16 footer {
+	margin-top: 0;
+}

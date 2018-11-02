@@ -1,0 +1,383 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700|PT+Sans:400,400i,700,700i&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Trirong:300i,400i');
+/* font-family: 'Trirong', serif; */
+
+
+/******************************
+          Global Styles
+*******************************/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  color: #C56F6D;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  color: #C56F6D;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+
+h4 {
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+}
+/******************************
+          Layout
+*******************************/
+#home {
+  background-repeat: no-repeat;
+  background-size: 60%;
+  display: block;
+  background-position: left 50%;
+}
+
+/* #home h2 {
+  font-size: 36px;
+} */
+
+.home-img-holder {
+  position: relative;
+}
+.smoke {
+  position: absolute;
+  top: 23%;
+  right: 10%;
+  width: 25%;
+  opacity: 0;
+  transform: scale(.5) translate(0, 0);
+  animation: 5s smoke linear infinite;
+}
+@keyframes smoke {
+  50%{
+    opacity: 1;
+    transform: scale(1) translate(30%, 10%);
+  }
+  100%{
+    opacity: 0;
+    transform: scale(1.3) translate(60%, 30%);
+  }
+}
+.smoke1 {
+  position: absolute;
+  top: 15%;
+  left: 35%;
+  width: 25%;
+  opacity: 0;
+  transform: scale(.5) translate(0, 0) rotate(180deg);
+  animation: 5s 1s smoke1 linear infinite;
+}
+@keyframes smoke1 {
+  60%{
+    opacity: 1;
+    transform: scale(1) translate(30%, 10%) rotate(180deg);
+  }
+  100%{
+    opacity: 0;
+    transform: scale(1.3) translate(60%, 30%) rotate(180deg);
+  }
+}
+
+/*************** About ***************/
+
+#home .text-about {
+margin-bottom: 60px;
+}
+
+.text-about h2 {
+text-align: center;
+}
+
+.text-about a {
+  color: #fff;
+}
+
+.about-btn {
+  background-color: #F1DA6C;
+  font-family: 'Oswald', sans-serif;
+  width: 160px;
+  line-height: 30px;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 50px;
+  text-transform: uppercase;
+  color: #C56F6D !important;
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+.about-btn:hover {
+  background-color: #e4d686 !important;
+  font-family: 'Oswald', sans-serif;
+  width: 160px;
+  line-height: 30px;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 50px;
+  text-transform: uppercase;
+  color: #C56F6D !important;
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+.text-about {
+  margin-top: 60px;
+}
+/*************** About END ***************/
+
+/*************** Offer ***************/
+.home-offer h2 {
+  text-align: center;
+}
+
+.home-offer p {
+  text-align: center;
+}
+
+.offer-btns {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.menu-offer-btn, .events-offer-btn{
+  font-family: 'Oswald', sans-serif;
+  background-color: #7BC5CD;
+  width: 300px;
+  line-height: 45px;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 50px;
+  text-transform: uppercase;
+  color: #fff !important;
+  text-align: center;
+  margin: 0 30px;
+  position: relative;
+  font-size: 18px;
+}
+
+.menu-offer-btn:hover, .events-offer-btn:hover {
+  font-family: 'Oswald', sans-serif;
+  background-color: #5fbdcd;
+  width: 300px;
+  line-height: 45px;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 50px;
+  text-transform: uppercase;
+  color: #fff !important;
+  text-align: center;
+  margin: 0 30px;
+  position: relative;
+}
+
+.menu-offer-btn::before, .events-offer-btn::after {
+  content: " ";
+  display: block;
+  position: absolute;
+}
+.menu-offer-btn::before {
+  background-image: url("../img/nikola/cup-illustration.svg");
+  width: 72px;
+  height: 59px;
+  top: -30px;
+}
+
+.events-offer-btn::after {
+  background-image: url("../img/nikola/man-illustration.svg");
+  width: 86px;
+  height: 97px;
+  top: -55px;
+  right: 5px;
+  z-index: -100;
+}
+/*************** Offer END ***************/
+
+/*************** Testimonial ***************/
+.testimonial-heading {
+  text-align: center;
+}
+
+/*************** Testimonial END ***************/
+
+
+/*************** Sponsors ***************/
+.sponsors {
+  padding-top: 60px;
+  text-align: center;
+}
+
+.sponsor {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sponsor-heading-holder {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#home .sponsor img {
+  width: 90px;
+  margin: 5px 0 0 5px;
+  display: inline-block;
+}
+/*************** Sponsors END ***************/
+
+/*************** Media Queries ***************/
+@media (min-width: 320px) {
+  .about-btn {
+    background-color: #F1E18B;
+    width: 160px;
+    line-height: 30px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50px;
+    text-transform: uppercase;
+    color: #C56F6D !important;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  #home .about-btn-holder {
+    text-align: center;
+  }
+  #home .menu-offer-btn {
+    margin-bottom: 80px;
+  }
+}
+
+@media (min-width: 576px) {
+  #home .text-about {
+    margin-bottom: 100px;
+  }
+  #home .about-btn {
+    background-color: #F1E18B;
+    width: 160px;
+    line-height: 30px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50px;
+    text-transform: uppercase;
+    color: #C56F6D !important;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  #home .about-btn-holder {
+    text-align: center;
+  }
+  #home .menu-offer-btn {
+    margin-bottom: 80px;
+  }
+}
+
+@media (min-width: 768px) {
+  #home .text-about {
+    margin-bottom: 100px;
+  }
+  #home .about-btn-holder {
+    text-align: center;
+  }
+  #home .menu-offer-btn {
+    margin-bottom: 80px;
+  }
+}
+
+@media (min-width: 992px) {
+  #home {
+    background-image: url("../img/nikola/illustration-1.svg");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: bottom 2040px left;
+  }
+  #home h1 {
+    font-size: 28px;
+    text-align: left;
+  }
+  #home .text-about p {
+    text-align: right;
+    font-size: 16px;
+  }
+
+  #home .text-about h2 {
+      text-align: right;
+  }
+
+  .subtitle {
+    font-size: 16px;
+  }
+  #home .about-btn {
+    background-color: #F1E18B;
+    width: 160px;
+    line-height: 30px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50px;
+    text-transform: uppercase;
+    color: #C56F6D !important;
+    text-align: center;
+    margin-bottom: 100px;
+  }
+  #home .about-btn-holder {
+    text-align: right;
+  }
+  #home .menu-offer-btn {
+    margin-bottom: 80px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #home {
+    background-image: url("../img/nikola/illustration-1.svg");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: top 908px left;
+  }
+  #home .about-btn {
+    background-color: #F1E18B;
+    width: 160px;
+    line-height: 30px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50px;
+    text-transform: uppercase;
+    color: #C56F6D !important;
+    text-align: center;
+    margin-bottom: 180px;
+  }
+#home .text-about h2, #home .text-about p {
+  text-align: right;
+}
+  #home .about-btn-holder {
+    text-align: right;
+  }
+  #home .menu-offer-btn {
+    margin-bottom: 80px;
+  }
+}
+/*************** Media Queries END ***************/

@@ -1,0 +1,147 @@
+#about {
+  background-image: url("../img/jelena/mob-decoration.svg"), url("../img/jelena/illustration-mob.svg");
+  background-repeat: no-repeat;
+  background-size: 90%, 40%;
+  background-position: left 250px, left bottom 250px;
+}
+#about h1, #about h2 {
+  margin: 20px 0;
+  font-size: 18px;
+  text-transform: uppercase;
+  _margin-bottom: 10px;
+  text-align: center;
+}
+.text-about p {
+  font-size: 14px;
+  text-align: justify;
+  color: #575759;
+}
+.text-about a {
+  color: #c56c6c;
+  text-decoration: none;
+}
+.subtitle {
+  font-size: 14px;
+  color: #575759;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.owl-carousel .owl-item img {
+  width: 60px;
+  margin: 25px 0 0 30px;
+  display: inline-block;
+}
+
+.cloud {
+  border: 1px solid #CCCCCC;
+  position: relative;
+  text-align: left;
+  padding: 10px;
+  background-color: #F3F3F3;
+  color: #93A3A7;
+  font-size: 14px;
+  font-style: italic;
+}
+.cloud::after {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-right: 1px solid #CCCCCC;
+  transform: rotate(135deg);
+  border-top: 1px solid #CCCCCC;
+  content: "";
+  bottom: -11px;
+  left: 50px;
+  background-color: #F3F3F3;
+}
+.name {
+  position: relative;
+  top: 15px;
+  left: 5px;
+}
+.owl-theme .owl-nav {
+  display: none;
+}
+.owl-theme .owl-dots {
+  position: relative;
+  top: 25px;
+}
+/* addthis hover */
+.at-icon-wrapper {
+    background-color: rgb(124, 198, 206) !important;
+}
+.at4-count {
+    background-color: rgb(124, 198, 206) !important;
+}
+ span.at-icon-wrapper:hover  {
+    background-color: rgb(95, 189, 205) !important;
+}
+a.at4-count:hover {
+   background-color: rgb(95, 189, 205) !important;
+}
+@media (min-width: 576px) {
+  #about {
+    background-image: url("../img/jelena/mob-decoration.svg"), url("../img/jelena/illustration-mob.svg");
+    background-repeat: no-repeat;
+    background-size: 80%, 30%;
+    background-position: left 230px, left bottom 220px;
+  }
+}
+
+@media (min-width: 768px) {
+  #about {
+    background-image: url("../img/jelena/mob-decoration.svg"), url("../img/jelena/illustration-mob.svg");
+    background-repeat: no-repeat;
+    background-size: 70%, 20%;
+    background-position: left 270px, left bottom 120px;
+  }
+  .main-carousel {
+    padding: 0 50px;
+  }
+
+  .main-carousel img {
+    margin-left: 45px;
+  }
+
+}
+
+@media (min-width: 992px) {
+  #about {
+    background-image: url("../img/jelena/decoration-1.svg"), url("../img/jelena/decoration-2.svg");
+    background-repeat: no-repeat;
+    background-size: 70%, 40%;
+    background-position:right 340px, left bottom 30px;
+  }
+  #about h1 {
+    font-size: 28px;
+    text-align: left;
+  }
+  .text-about p {
+    text-align: left;
+    font-size: 16px;
+  }
+  .subtitle {
+    font-size: 16px;
+  }
+  .cloud {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #about {
+    background-image: url("../img/jelena/decoration-1.svg"), url("../img/jelena/decoration-2.svg");
+    background-repeat: no-repeat;
+    background-size: 60%, 40%;
+    background-position:right 340px, left bottom -10px;
+  }
+  #about h2 {
+    font-size: 28px;
+  }
+}
+
+ /* addthis */
+
+div#at4-share {
+     top: 27% !important;
+}

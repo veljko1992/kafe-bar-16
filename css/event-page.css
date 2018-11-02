@@ -1,0 +1,228 @@
+
+#event-page {
+  background: url("../img/veljko/bigdecoration.svg");
+  background-repeat: no-repeat;
+  background-size: 45%;
+      background-position: right 0 top 45%;
+}
+.holder-row{
+  align-items:flex-start;
+}
+
+.main-event {
+  text-align: center;
+}
+
+
+
+.happenning-intro {
+display: flex;
+align-content: center;
+flex-wrap: wrap;
+order: 1;
+
+}
+
+ .happenning-intro h2{
+ text-align: left;
+ font-size: 18px;
+   text-transform: uppercase;
+}
+
+.happenning {
+  text-align: center;
+  margin-top: 50px;
+  order:3;
+}
+
+.happenning p{
+
+text-align: justify;
+
+
+
+}
+.happenning img {
+  display: none;
+}
+
+
+.happenning-intro h3{
+font-size: 14px;
+text-transform: uppercase;
+color:#a37d5d;
+font-weight: 100;
+text-align: left;
+}
+.happenning h2 {
+  text-align: left;
+  font-size: 18px;
+    text-transform: uppercase;
+}
+
+.date-integer {
+  text-align: right;
+  order:2;
+}
+
+.date-integer-cont span {
+  display: block;
+  font-size: 16px;
+  color:#575759;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+.date-integer-cont span:first-child {
+  color:#575759;
+  text-transform: uppercase;
+
+}
+  .date-integer-cont {
+
+
+            text-align: center;
+                display: inline-block;
+                    padding:0 8px;
+
+                  background-color: #a2d7dd;
+                  min-height: 107px;
+                  min-width: 107px;
+
+}
+
+.date-integer-cont h3 {
+  font-size: 50px;
+font-family: "Oswald";
+color: #c46f6e;
+margin: 0;
+font-weight: 300;
+letter-spacing: 3px;
+line-height: 33px;
+margin-top: 4px;
+
+}
+
+.happ-button {
+  padding: 0 45px;
+  line-height: 30px;
+  border-radius: 50px;
+  background-color: #7dc5cd;
+  color:#fff;
+font-family: "Oswald";
+font-size: 18px;
+text-transform: uppercase;
+border:none;
+margin-top: 50px;
+margin-bottom: 7rem;
+font-weight: 300;
+
+
+
+}
+
+.happ-button:hover {
+  background: #5fbdcd;
+}
+
+.happenning-a {
+  text-decoration: none;
+}
+
+.happ-button:focus {
+  outline: none !important;
+}
+
+
+
+
+/* Media query */
+
+
+
+
+
+@media only screen and (min-width: 768px) {
+  .happenning img  {
+        display:block;
+
+    }
+    .happenning-intro h2 {
+      font-size:32px;
+    }
+      .happenning-intro h3{
+        font-size:
+      }
+}
+
+
+
+@media only screen and (min-width: 992px) {
+  .happenning {
+    order: 2;
+    margin: 0;
+
+
+    }
+    .date-integer {
+      order:3;
+      text-align: left;
+
+
+    }
+
+    .date-integer h3 {
+      width: 160px;
+      height: 160px;
+
+
+    }
+
+  .happenning-intro {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 50px;
+  }
+  .happenning-intro h2 {
+    text-align: center;
+    font-size: 36px;
+  }
+  .happenning-intro h3 {
+    text-align: center;
+  }
+
+  .date-integer-cell {
+    display: table;
+  }
+.date-integer-cont h3 {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 92px;
+  line-height: 50px;
+
+}
+.date-integer-cont span {
+  padding-top: 5px;
+}
+.date-integer-cont span:first-child{
+  padding-bottom: 1px;
+}
+
+
+#event-page {
+  background: url("../img/milosm/decoration-1.svg");
+  background-repeat: no-repeat;
+  background-size: 45%;
+      background-position: right 0 bottom 0;
+}
+
+}
+
+
+@media only screen and (min-width: 1180px) {
+#event-page{  background: url("../img/milosm/decoration-1.svg");
+  background-repeat: no-repeat;
+  background-size: 35%;
+      background-position: right 0 bottom 0;
+    }
+
+}
